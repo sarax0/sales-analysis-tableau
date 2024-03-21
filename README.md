@@ -4,7 +4,7 @@
 This Tableau project aims to analyze sales data from various dimensions including product, customer, promotion, and currency. The dashboard consists of five main pages: Overview, PRODUCT, CUSTOMER, PROMOTION, and CURRENCY. Each page provides insights into different aspects of the sales data, facilitating better decision-making and understanding of customer behavior and product performance.
 
 ## Dashboard Link
-[Link to Tableau Dashboard]([insert_link_here](https://public.tableau.com/views/InternetSales2019Tableua/InternetSales?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link))
+[Link to Tableau Dashboard](https://public.tableau.com/views/InternetSales2019Tableua/InternetSales?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 ## Implemented Requirements
 
