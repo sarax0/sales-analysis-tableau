@@ -6,7 +6,11 @@ This Tableau project aims to analyze sales data from various dimensions includin
 
 ## Description 
 ### Dashboard Snapshot
-![image](https://github.com/sarax0/sales-analysis-tableau/assets/122404545/7051f98f-b7db-4c01-9c58-ee58de79eac0)
+<div>
+   <img src="https://github.com/sarax0/sales-analysis-tableau/assets/122404545/32962488-71a8-4ccd-ac9a-a41547351a57" alt="Description of the image" width="50%">
+   <img src="https://github.com/sarax0/sales-analysis-tableau/assets/122404545/518e140c-1f07-47fd-be99-7634041ef582" alt="Description of the image" width="50%">
+</div>
+
 
 ### Dashboard Link
 [Link to Tableau Dashboard](https://public.tableau.com/views/InternetSales2019Tableua/InternetSales?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
