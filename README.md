@@ -7,11 +7,11 @@ This Tableau project aims to analyze sales data from various dimensions includin
  
 ### Dashboard Snapshot
 <div>
-   <img src="https://github.com/sarax0/sales-analysis-tableau/assets/122404545/32962488-71a8-4ccd-ac9a-a41547351a57" alt="Description of the image" width="45%">
-   <img src="https://github.com/sarax0/sales-analysis-tableau/assets/122404545/518e140c-1f07-47fd-be99-7634041ef582" alt="Description of the image" width="45%">
-   <img src="https://github.com/sarax0/sales-analysis-tableau/assets/122404545/f5350bbe-2070-4d60-a438-d6961cc826b5" alt="Description of the image" width="30%">
-   <img src="https://github.com/sarax0/sales-analysis-tableau/assets/122404545/636f3d9a-0933-46f2-9dfe-b576f9e061ae" alt="Description of the image" width="30%">
-   <img src="https://github.com/sarax0/sales-analysis-tableau/assets/122404545/b1c8894b-4d6b-4935-bb07-c2633641bf22" alt="Description of the image" width="30%">
+   <img src="https://github.com/sarax0/sales-analysis-tableau/assets/122404545/32962488-71a8-4ccd-ac9a-a41547351a57" alt="Overview" width="45%">
+   <img src="https://github.com/sarax0/sales-analysis-tableau/assets/122404545/518e140c-1f07-47fd-be99-7634041ef582" alt="products" width="45%">
+   <img src="https://github.com/sarax0/sales-analysis-tableau/assets/122404545/f5350bbe-2070-4d60-a438-d6961cc826b5" alt="Customers" width="30%">
+   <img src="https://github.com/sarax0/sales-analysis-tableau/assets/122404545/636f3d9a-0933-46f2-9dfe-b576f9e061ae" alt="Promotion" width="30%">
+   <img src="https://github.com/sarax0/sales-analysis-tableau/assets/122404545/b1c8894b-4d6b-4935-bb07-c2633641bf22" alt="Currency" width="30%">
 </div>
 
 ### Dashboard Link
